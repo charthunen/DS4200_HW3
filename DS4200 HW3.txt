@@ -1,0 +1,26 @@
+﻿Charlotte Thunen
+DS4200 HW3
+Personal Website
+
+
+https://charthunen.github.io/DS4200_HW3/index.html
+
+
+
+
+Styling and Customizations:
+Font: Arial, sans-serif
+Alignment: The body text is center aligned, while paragraph text is aligned to the left
+Background color: The background color is light grey (#f8f8f8)
+Formatting: The max width is 800 px, and the padding 20px, to ensure that the text does not go all the way to the edges 
+
+
+Navigation bar:
+Background: The color of the bar itself is dark grey (#333)
+Text: The text on the Nav bar is white
+Hover: The hover feature highlights the navigation button in a lighter grey color when your mouse is over the area of it. 
+
+
+Photo Slideshow: 
+Container: The images are in the slide show containers. This formats the pictures so they are all the same size. 
+Photos: The photos are representative of the content on the website, they relate to my hobbies (hiking), running in Boston, and a photo of Seattle.
